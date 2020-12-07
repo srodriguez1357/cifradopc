@@ -1,0 +1,4 @@
+D:\Test\Firmas\Debug\Firmas.vcxproj.CopyComplete
+D:\Test\Firmas\Debug\Firmas.exe
+D:\Test\Firmas\Debug\Firmas.pdb
+D:\Test\Firmas\Debug\libsodium.dll

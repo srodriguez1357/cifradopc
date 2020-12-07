@@ -1,0 +1,3 @@
+﻿  Cifrado.c
+D:\Test\Encripcion\Cifrado.c(13,19): warning C4018: '<': no coinciden signed/unsigned
+  Encripcion.vcxproj -> D:\Test\Encripcion\Debug\Encripcion.exe

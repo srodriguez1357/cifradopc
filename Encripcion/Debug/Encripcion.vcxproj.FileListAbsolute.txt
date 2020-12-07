@@ -1,0 +1,4 @@
+D:\Test\Encripcion\Debug\Encripcion.vcxproj.CopyComplete
+D:\Test\Encripcion\Debug\Encripcion.exe
+D:\Test\Encripcion\Debug\Encripcion.pdb
+D:\Test\Encripcion\Debug\libsodium.dll
